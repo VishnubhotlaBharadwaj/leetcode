@@ -7,24 +7,29 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0816-design-hashset](https://github.com/VishnubhotlaBharadwaj/leetcode/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/VishnubhotlaBharadwaj/leetcode/tree/master/0817-design-hashmap) |
 ## Hash Table
 |  |
 | ------- |
 | [0816-design-hashset](https://github.com/VishnubhotlaBharadwaj/leetcode/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/VishnubhotlaBharadwaj/leetcode/tree/master/0817-design-hashmap) |
 ## Linked List
 |  |
 | ------- |
 | [0816-design-hashset](https://github.com/VishnubhotlaBharadwaj/leetcode/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/VishnubhotlaBharadwaj/leetcode/tree/master/0817-design-hashmap) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/VishnubhotlaBharadwaj/leetcode/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/VishnubhotlaBharadwaj/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0816-design-hashset](https://github.com/VishnubhotlaBharadwaj/leetcode/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/VishnubhotlaBharadwaj/leetcode/tree/master/0817-design-hashmap) |
 ## Hash Function
 |  |
 | ------- |
 | [0816-design-hashset](https://github.com/VishnubhotlaBharadwaj/leetcode/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/VishnubhotlaBharadwaj/leetcode/tree/master/0817-design-hashmap) |
 ## Stack
 |  |
 | ------- |
